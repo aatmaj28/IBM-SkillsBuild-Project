@@ -1,1 +1,2 @@
 # IBM-SkillsBuild-Project
+The AI-Driven Mental Fitness Tracker utilizes diverse machine learning models (SVM, Random Forests, Linear Regression, Decision Tree regression) to offer personalized insights, proactive recommendations, and real-time data analysis. This user-friendly system empowers individuals to monitor and enhance their mental well-being, fostering a happier and healthier life through transparency, privacy, and data-driven mental health management.
